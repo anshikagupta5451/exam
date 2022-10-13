@@ -119,8 +119,8 @@ header nav a:hover {
 .lower {
     padding: 3rem 2rem;
     text-align: center;
-    background: url(./images/photo-1535747790212-30c585ab4867.avif);
-    background: linear-gradient(rgb(15, 15, 15, 0.6), rgb(15, 15, 15, 0.6)), url(./images/photo-1535747790212-30c585ab4867.avif) no-repeat;
+    background: url('th (1).jpg');
+    /* background: linear-gradient(rgb(15, 15, 15, 0.6), rgb(15, 15, 15, 0.6)), url(./images/photo-1535747790212-30c585ab4867.avif) no-repeat; */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -172,10 +172,7 @@ header nav a:hover {
 }
 
 
-/* #footer .innerfooter p i {
-    color: #29d9d5;
-    padding-right: 1rem;
-} */
+
 
 #footer .innerfooter .footericons {
     padding-top: 1rem;
